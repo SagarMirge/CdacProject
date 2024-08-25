@@ -1,0 +1,6 @@
+com\example\gatepass\repository\SecurityGuardRepository.class
+com\example\gatepass\service\SecurityGuardService.class
+com\example\gatepass\model\SecurityGuard.class
+com\example\gatepass\config\SecurityConfig.class
+com\example\gatepass\controller\SecurityGuardController.class
+com\example\gatepass\CdacProjectSpringbootApplication.class
